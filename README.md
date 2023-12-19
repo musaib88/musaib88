@@ -1,30 +1,54 @@
-<h1 align="center">Hi 👋, I'm Musaib Bashir</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<img  src="https://c.tenor.com/YHUOSFkcNCcAAAAC/tenor.gif" alt="coding" />
+<p align="left"><img src="https://komarev.com/ghpvc/?username=musaib88&label=Profile%20views&color=0e75b6&style=flat" alt="musaib88"/> </p>
+<h1 align="center">Hi , I'm Musaib Bashir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+<h3 align="center">Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3 align="center">A full stack developer passionate about programming, solving problems and creating visually pleasing experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musaib88&label=Profile%20views&color=0e75b6&style=flat" alt="musaib88" /> </p>
+<p align="center"><img src="https://c.tenor.com/YHUOSFkcNCcAAAAC/tenor.gif" width="600" height="400"/></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaib88" alt="musaib88" /></a> </p>
+### 👨🏻‍💻 &nbsp;About Me :
 
-<p align="left"> <a href="https://twitter.com/ztabreez" target="blank"><img src="https://img.shields.io/twitter/follow/ztabreez?logo=twitter&style=for-the-badge" alt="ztabreez" /></a> </p>
+- 🌍 I'm from **_Baramulla, Jammu and Kashmir, India_**.
+- 🌱 I’m currently learning **_React.js_**.
+- 💬 Ask me about **_HTML, CSS, JAVASCRIPT, JAVA, MERN_** or any tech related stuff.
+- 📫 How to reach me ***musaibbashir2022@gmail.com***.
 
-- 💬 Ask me about **MernStack**
+### 📞 &nbsp;Connect with me :
 
-- 📫 How to reach me **musaibbashir2022@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ztabreez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ztabreez" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/musaibbashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musaibbashir" height="30" width="40" /></a>
-<a href="https://instagram.com/zain_ul_tabrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zain_ul_tabrez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/musaibbashir"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🛠 &nbsp;Languages and Tools :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musaib88&show_icons=true&locale=en&layout=compact" alt="musaib88" /></p>
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange" alt="html"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="ReactJs"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
+  <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS-Code"/></a>&nbsp;
+ </p>
+ 
+### 🔥 &nbsp;My GitHub Stats & Trophy :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musaib88&show_icons=true&locale=en" alt="musaib88" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaib88&theme=dark_lover&margin-w=16" alt="musaib88"/></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musaib88&" alt="musaib88" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=musaib88&theme=dark&background=000000" alt="musaib88" width="1000" height="300"/></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=musaib88&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="musaib88" width="370"/></p>
+
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=musaib88&show_icons=true&locale=en&theme=vision-friendly-dark" alt="musaib88" width="440"/></p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</p>
