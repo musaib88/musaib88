@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me :
 
 - 🌍 I'm from **_Baramulla, Jammu and Kashmir, India_**.
-- 🌱 I’m currently learning **Python**.
+- 🌱 I’m currently learning **Python** and React Native.
 - 💬 Ask me about **_HTML, CSS, JAVASCRIPT, JAVA, MERN_** or any tech related stuff.
 - 📫 How to reach me ***musaibbashir2022@gmail.com***.
 
