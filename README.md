@@ -1,81 +1,68 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&width=1000&height=250&section=header&text=MUSAIB%20BASHIR&fontSize=70&subText=Full%20Stack%20Architect%20%7C%20Freelancer&subFontSize=25&animation=fadeIn" alt="Header"/>
-</p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=musaib88&label=Profile%20views&color=0e75b6&style=flat" alt="musaib88"/> </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/musaibbashir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:musaibbashir1700@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://iammirauqib.com"><img src="https://img.shields.io/badge/Portfolio-Photography-orange?style=for-the-badge&logo=google-photos&logoColor=white" /></a>
+# Hi, I'm Musaib Bashir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+### Full Stack Web Developer | 2.5+ Years Experience
+[cite_start]**Specializing in scalable E-commerce, Fintech, and SaaS solutions.** 
+
+---
+
+### 👨🏻‍💻 About Me
+
+- [cite_start]🌍 Originally from **Baramulla, J&K**, currently based in **Bengaluru**. [cite: 26, 53, 86]
+- [cite_start]🚀 **Full Stack Freelancer** delivering secure APIs and high-performance frontends. [cite: 7, 8]
+- [cite_start]🌱 Currently mastering **Python** and **React Native** for mobile ecosystems. [cite: 34, 38]
+- [cite_start]💬 Ask me about **Spring Boot, Node.js, React, and GCP Cloud Deployments**. [cite: 8, 9, 14]
+- [cite_start]📫 Reach me at: **musaibbashir1700@gmail.com** [cite: 2]
+
+### 📞 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/musaibbashir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://iammirauqib.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Photography-orange?style=for-the-badge&logo=google-photos&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-### ⚡ Quick Overview
-* **Expertise**: [cite_start]Building scalable E-commerce, Fintech, and SaaS solutions with 2.5+ years of experience[cite: 7].
-* **Base**: [cite_start]Located in Bengaluru, Karnataka[cite: 26].
-* **Current Pursuit**: [cite_start]Learning Python and refining React Native expertise[cite: 34].
-* **Deep Interests**: [cite_start]Crypto ecosystems, Web3, AI, and Philosophy[cite: 88].
+### 🛠 Languages and Tools
+
+**Backend & Cloud**
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="CI/CD"/>
+</p>
+
+**Frontend & Mobile**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TS"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
+</p>
 
 ---
 
-### 💻 Technologies & Ecosystem
+### 🔥 GitHub Stats
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/backend-development.png"/><br/>
-      <b>Backend</b><br/>
-      [cite_start]Spring Boot, Node.js, Express [cite: 14, 38]<br/>
-      [cite_start]JWT & Spring Security [cite: 37, 81]
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/react-native.png"/><br/>
-      <b>Frontend & Mobile</b><br/>
-      [cite_start]React.js, Next.js, Tailwind [cite: 13, 38]<br/>
-      [cite_start]React Native & Expo [cite: 34]
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/48/000000/cloud-lighting.png"/><br/>
-      <b>DevOps & Cloud</b><br/>
-      [cite_start]GCP (Cloud Run, SQL, Storage) [cite: 30, 35, 39]<br/>
-      [cite_start]CI/CD via GitHub Actions [cite: 19, 31]
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Key Projects
-
-#### [cite_start]💎 **Fintech & Rewards Ecosystem** [cite: 66]
-> [cite_start]A complex finance platform featuring multi-tier referral logic (3 levels) and automated cron-job payouts[cite: 68].
-- **Core**: [cite_start]Manual QR-based wallet recharges with manual verification[cite: 67].
-- **Security**: [cite_start]Integrated KYC verification for secure user onboarding[cite: 69].
-- **Stack**: [cite_start]React.js, Node.js (Express), MySQL, Google Cloud[cite: 73].
-
-#### [cite_start]📷 **Photography Marketplace** [cite: 52]
-> [cite_start]Dynamic e-commerce engine with multi-currency support (INR/USDT)[cite: 55].
-- **Feature**: [cite_start]Dynamic admin dashboard for management without redeployments[cite: 57].
-- **Stack**: [cite_start]React.js, Node.js, Google Cloud VMs & Storage[cite: 59].
-
-#### [cite_start]📺 **OTT Platform API & UI** [cite: 60]
-> [cite_start]Responsive content browsing with cast/category filtering[cite: 61].
-- **Security**: [cite_start]JWT-based authentication for secure session management[cite: 63].
-- **Stack**: [cite_start]Java, Spring Boot, Hibernate, MySQL, AWS[cite: 64, 65].
-
----
-
-### 📈 Activity Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musaib88&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=777" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaib88&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" width="48%" />
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=musaib88&theme=dark_lover&margin-w=16" alt="musaib88 trophies"/>
+  </a> 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musaib88&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=777" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musaib88&show_icons=true&theme=vision-friendly-dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaib88&theme=vision-friendly-dark&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&width=1000&height=50&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musaib88&show_icons=true&layout=compact&theme=vision-friendly-dark&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 </p>
