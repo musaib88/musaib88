@@ -3,18 +3,18 @@
 # Hi, I'm Musaib Bashir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 ### Full Stack Web Developer | Freelancer
-[cite_start]**Architecting scalable applications in e-commerce, fintech, and SaaS[cite: 7].**
+**Architecting scalable applications in e-commerce, fintech, and SaaS.**
 
 ---
 
 ### 👨🏻‍💻 About Me
 
-- 🌍 Originally from Baramulla, Jammu and Kashmir, currently based in Bengaluru.
-- [cite_start]🚀 Freelance developer with over 2.5 years of professional experience[cite: 7].
-- 🎓 Holding a B.Tech in CSE and currently pursuing an M.Tech in Cybersecurity.
-- 💻 Actively building a Next.js farmer-to-farmer asset rental marketplace.
-- [cite_start]🧠 Deeply interested in building personal automation tools, crypto ecosystems, Web3, AI, and philosophy[cite: 88].
-- [cite_start]📫 Reach me at: musaibbashir1700@gmail.com[cite: 2].
+- 🌍 Originally from **Baramulla, Jammu and Kashmir**, currently based in **Bengaluru**.
+- 🚀 Freelance developer with over **2.5 years of professional experience**.
+- 🎓 Holding a **B.Tech in CSE** and currently pursuing an **M.Tech in Cybersecurity**.
+- 💻 Actively building a **Next.js farmer-to-farmer asset rental marketplace**.
+- 🧠 Deeply interested in **AI, Crypto Ecosystems, Web3, and Philosophy**.
+- 📫 Reach me at: **musaibbashir1700@gmail.com**.
 
 ---
 
@@ -51,9 +51,9 @@
 
 ### 💼 Experience & Key Projects
 
-* [cite_start]**Full Stack Developer at My Shoe Clinic (Jan 2023 - Apr 2025):** Designed RESTful APIs using Node.js and Spring Boot for microservices[cite: 24, 26, 28]. [cite_start]Deployed scalable services via Google Cloud Run CLI and integrated Razorpay for secure transactions[cite: 30, 32].
-* [cite_start]**Finance & Rewards Distribution Platform:** Built a multi-tier referral system automated through cron jobs, integrating KYC verification and QR-based wallet recharges[cite: 66, 67, 68, 69].
-* [cite_start]**Photography E-Commerce:** Developed a React.js and Node.js platform featuring a multi-currency shopping cart (INR/USDT)[cite: 52, 54, 55].
+* **Full Stack Developer at My Shoe Clinic (Jan 2023 - Apr 2025):** Designed RESTful APIs using Node.js and Spring Boot for microservices. Deployed scalable services via Google Cloud Run CLI and integrated Razorpay for secure transactions.
+* **Finance & Rewards Distribution Platform:** Built a multi-tier referral system automated through cron jobs, integrating KYC verification and QR-based wallet recharges.
+* **Photography E-Commerce (Client Project):** Developed a dynamic marketplace with a React.js frontend and Node.js backend featuring a multi-currency shopping cart (INR/USDT).
 
 ---
 
@@ -79,5 +79,4 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/musaibbashir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:musaibbashir1700@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://iammirauqib.com"><img src="https://img.shields.io/badge/Photography_Portfolio-FF8C00?style=flat-square&logo=google-photos&logoColor=white" alt="Portfolio"></a>
 </p>
