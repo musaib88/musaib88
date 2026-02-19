@@ -60,16 +60,16 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaib88&theme=vision-friendly-dark&margin-w=16" alt="Trophies"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musaib88&theme=dark_lover&margin-w=16" alt="musaib88"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=musaib88&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaib88&theme=vision-friendly-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaib88&theme=dark&background=000000" alt="musaib88 streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musaib88&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=musaib88&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=musaib88&show_icons=true&locale=en&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
 
 ---
